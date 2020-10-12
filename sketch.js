@@ -114,7 +114,7 @@ function draw() {
     bananagroup.setLifetimeEach(-1);
     rockgroup.setLifetimeEach(-1);
     text("The End", width/2, height/2);
-    monkey.x = -50;
+    monkey.x = -50000;
   }
 
 }
